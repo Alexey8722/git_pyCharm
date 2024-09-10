@@ -8,4 +8,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+def minus(a,b):
+    return a+b
+print(minus(5,3))
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
